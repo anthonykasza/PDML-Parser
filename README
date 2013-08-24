@@ -32,3 +32,7 @@ The following command will use Tshark to convert a PCAP file to a PDML file
 As packet captures can be large and indexing has a daily limit, it is 
 recommended to filter out unnecessary packets before converting them to pdml and
 indexing them into Splunk. 
+
+
+
+This repo houses the Splunk app found here	http://apps.splunk.com/app/1121
